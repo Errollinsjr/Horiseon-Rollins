@@ -33,10 +33,10 @@ Tasks completed:
 # Link
 
 pages:
-https://errollinsjr.github.io/horiseon-Rollins-refactor/
+https://errollinsjr.github.io/Horiseon-Rollins/
 
 git:
-https://github.com/Errollinsjr/horiseon-Rollins-refactor
+https://github.com/Errollinsjr/Horiseon-Rollins
 
 # Screenshot
 
