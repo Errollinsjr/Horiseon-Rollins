@@ -35,9 +35,6 @@ Tasks completed:
 pages:
 https://errollinsjr.github.io/Horiseon-Rollins/
 
-git:
-https://github.com/Errollinsjr/Horiseon-Rollins
-
 # Screenshot
 
 ![Rollins_HoriseonWebSitesScreenshot](https://user-images.githubusercontent.com/43302610/116787565-c00cf380-aa72-11eb-984f-a49ab861d48f.png)
